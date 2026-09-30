@@ -1,0 +1,7 @@
+telethon==1.34.0
+python-dotenv==1.0.1
+# cryptg is optional; Telethon works without it and Termux often cannot build it.
+requests>=2.31.0
+# cryptography>=42.0.0  # optional (only for encrypted API keys)
+python-telegram-bot==20.3
+Pillow==10.4.0
